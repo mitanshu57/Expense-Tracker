@@ -16,7 +16,7 @@ function Navigation({active,setActive}) {
       <div className="user-con">
         <img src={avatar} alt="" />
         <div className="text">
-          <h2>Mitanshu</h2>
+          <h2>User</h2>
           <div className="balance">
           <p>{rupee} {totalBalance()}</p>
 
